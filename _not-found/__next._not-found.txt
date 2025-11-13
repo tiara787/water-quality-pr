@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[81688,["/water-qualituy-pr/_next/static/chunks/68c37efa95b0ba20.js","/water-qualituy-pr/_next/static/chunks/ae492b90d5cf1b81.js"],"default"]
+3:I[19226,["/water-qualituy-pr/_next/static/chunks/68c37efa95b0ba20.js","/water-qualituy-pr/_next/static/chunks/ae492b90d5cf1b81.js"],"default"]
+0:{"buildId":"GgVnCQeSUWG0PPeVUpkA5","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
